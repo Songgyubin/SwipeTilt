@@ -2,7 +2,7 @@
 
 ![Awesome-Android](https://android.libhunt.com/swipetilt-alternatives)
 
-
+**[Awesome-Android OpenSource]**
 **Compose Horizontal Pager with both pages tilted**
 
 Provides an animated effect as the page visually tilts in response to the user's swipes
